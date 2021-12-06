@@ -1,4 +1,5 @@
-# Home-Insurance-System-Maven-Spring-MVC-Hibernate
+# Home-Insurance-System
+Maven-Spring-MVC-Hibernate
 
 
 **Dependencies are added through Maven <br/>
